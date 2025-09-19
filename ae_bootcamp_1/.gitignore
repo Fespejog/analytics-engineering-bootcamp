@@ -2,8 +2,13 @@
 target/
 dbt_packages/
 logs/
+clean-repo/
+google-cloud-sdk-456.0.0-linux-x86_64.tar.gz
 ../analytics-engineering-bootcamp/
 ../dbt-env/
 ../google-cloud-sdk-456.0.0-linux-x86_64.tar.gz
 ../google-cloud-sdk/
 ../logs/
+
+
+
